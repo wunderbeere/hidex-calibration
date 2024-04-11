@@ -1,0 +1,30 @@
+## Calibration 
+By: SA
+
+The liquid radio metabolite with the activity of 460 microCi in 750ml of dilutor
+
+the samples used for counting were:
+1) 500nCi : 850ul of sample
+2) 400nCi : 650ul of sample
+3) 300mCi : 490ul of sample
+
+the samples were counted each for 5 minutes in the rack 036 (Track 45min)
+
+
+
+Due to DTF being close to 1.1, 2 additional samples were added:
+4) 390 ul
+5) 300 ul
+
+
+the count was done two extra times on the day after on March 27th
+
+## Notes on analyzing the data
+By YS
+
+- for this set I manually copy-pasted the data into a new excel spreadsheet but could use macros
+- the sample masses used for analysis were those weighed by the hidex
+- used unnormalized CPMs for all analysis
+- the scripts only work if you use the same columns that are in efficiency_set3.csv. If changed, you need to change the script where the data is loaded.
+- The csv file NEEDS to be saved with UTF-8 enabled
+- Before saving to csv, all numbers need to be converted in excel to a general number format to remove the comma in the numbers.
