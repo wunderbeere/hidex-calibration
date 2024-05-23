@@ -28,3 +28,7 @@ By YS
 - the scripts only work if you use the same columns that are in efficiency_set3.csv. If changed, you need to change the script where the data is loaded.
 - The csv file NEEDS to be saved with UTF-8 enabled
 - Before saving to csv, all numbers need to be converted in excel to a general number format to remove the comma in the numbers.
+
+## Chris' email re: radioactivity concentration
+
+The sample we gave her is probably from phantom 1, I think, but I'm not entirely sure. If it's sample 1, then the activity would be 33207.6 Bq/cc at T0, if it's sample 2, 29936.9 Bq/cc at T0. T0 = 14:50:15
